@@ -1,5 +1,6 @@
 """
-    "At the final stage, we want to use all the modules we've written. First, we import all of them, 
+    "At the final stage, we want to use all the modules we've written. First, 
+    we import all of them, 
     then we define a function named main.
     In the main function, we first define a variable named 'running' and assign True to it.
     Next, we use a while loop with the condition that the 'running' variable is True, 
@@ -97,6 +98,9 @@
 
     Finally, we call the main function."
 
+    ----
+    To view all the module description, you can refer to the README file.
+    (-_-)
 """
 
 import json

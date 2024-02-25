@@ -6,6 +6,10 @@
    which is a dictionary, 
    to the variable "std_information" (we can extract the JSON file using the load function). 
    Finally, we return the variable "std_information."
+   
+   ----
+    To view all the module description, you can refer to the README file.
+    (-_-)
 """
 
 import json

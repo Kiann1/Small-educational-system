@@ -1,6 +1,10 @@
 """
     First, we have a person class that has two attributes, 
     one of which is name and the other is last name.
+    
+    ----
+    To view all the module description, you can refer to the README file.
+    (-_-)
 
 """
 class Person:

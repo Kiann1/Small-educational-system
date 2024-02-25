@@ -11,6 +11,10 @@
     we sum up the student's grades and divide it by the "length." 
     We assign this value to the variable "avg_grade" and finally print it. 
     This function calculates the average grades of the student and can be used accordingly.
+    
+    ----
+    To view all the module description, you can refer to the README file.
+    (-_-)
 """
 
 import json

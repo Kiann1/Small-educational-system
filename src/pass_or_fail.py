@@ -29,6 +29,10 @@ assigning the items to variables "course" and "grade." Then, using the print
 statement and f-string, we display the courses and their grades to the user.
 
 - Similarly, for displaying the failed courses, we use the same method.
+
+----
+    To view all the module description, you can refer to the README file.
+    (-_-)
 """
 
 import json

@@ -16,6 +16,10 @@
     which then assigns them to two variables named "course" and "grade". 
     Then, we assign the grades to the desired courses that exist within our 
     nested dictionary as values, and after finishing the loop, we return this dictionary.
+    
+    ----
+    To view all the module description, you can refer to the README file.
+    (-_-)
 """
 
 from src.Person import Person

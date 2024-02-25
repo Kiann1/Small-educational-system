@@ -10,6 +10,10 @@
     such as name, last name, student ID, and courses; it's a nested dictionary). 
     Then we set the course names as keys in the internal dictionary and assign 
     an empty value to them because grades will be applied by the instructor.
+    
+    ----
+    To view all the module description, you can refer to the README file.
+    (-_-)
 """
 
 from src.Person import Person

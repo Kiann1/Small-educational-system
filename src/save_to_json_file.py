@@ -5,6 +5,10 @@
     containing student information. Next, we use the open function 
     to open the JSON file and utilize the write mode. 
     After that, using the dump function, we save the dictionary into the JSON file.
+    
+    ----
+    To view all the module description, you can refer to the README file.
+    (-_-)
 """
 
 import json
